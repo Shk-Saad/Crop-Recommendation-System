@@ -1,8 +1,8 @@
 # Crop-Recommendation-System
 
 1. Data Import and Exploration:
-- Uses the Pandas library to load a CSV file named containing information about crops.
-- Checks the dataset's shape, checks for null values, looks for duplicates, and provides general information using `info()` and `describe()` methods.
+- Use the Pandas library to load a CSV file named containing information about crops.
+- Check the dataset's shape, check for null values, looks for duplicates, and provides general information using `info()` and `describe()` methods.
 
 2. Data Encoding:
 - The 'label' column in the dataset, representing crop names, is encoded into numerical values using a dictionary.
