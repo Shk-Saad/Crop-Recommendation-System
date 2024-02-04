@@ -1,7 +1,7 @@
 # Crop-Recommendation-System
 
 1. Data Import and Exploration:
-- Use the Pandas library to load a CSV file named containing information about crops.
+- Use the Pandas library to load a CSV file containing information about crops.
 - Check the dataset's shape, check for null values, looks for duplicates, and provides general information using `info()` and `describe()` methods.
 
 2. Data Encoding:
@@ -14,7 +14,8 @@
 
 4. Training Models:
 - Several machine learning models are imported and trained on the dataset.
-- Models include Linear Discriminant Analysis, Logistic Regression, Naive Bayes, Support Vector Machine, K-Nearest Neighbors, Decision Tree, Random Forest, Bagging, AdaBoost, Gradient Boosting, and Extra Trees.
+- Models include Linear Discriminant Analysis, Logistic Regression, Naive Bayes, Support Vector Machine, K-Nearest Neighbors, Decision Tree, Random Forest, Bagging, AdaBoost, Gradient 
+  Boosting, and Extra Trees.
 - Model accuracy is printed for each model on the test set.
 
 5. Predictive System:
