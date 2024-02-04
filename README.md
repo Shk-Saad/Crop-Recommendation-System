@@ -23,7 +23,6 @@
 - A set of sample input values is provided, and the predicted crop is printed.
 
 6. Conclusion:
-- The script seems to serve as a crop recommendation system based on input environmental parameters, utilizing machine learning models for prediction.
 - The RandomForestClassifier is chosen for its high accuracy in this context.
 - The final part of the script demonstrates how the model can be used to recommend a crop based on specific environmental conditions.
 
